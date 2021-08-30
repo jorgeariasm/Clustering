@@ -1,2 +1,2 @@
 # Clustering
- Analisis de datos de Covid
+ Analisis de datos Covid
